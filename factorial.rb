@@ -1,3 +1,5 @@
+# find the first factorial of a number
+
 puts "Enter a number"
 
 number = gets.chomp.to_i
